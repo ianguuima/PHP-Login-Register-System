@@ -2,7 +2,7 @@
 A simple system that you can create your own account and log-in into it. My first project in PHP.
 
 
-###Configuration: 
+##Configuration: 
 
 To configure is easy, just enter in: login_method.php and register_method.php and change mysql to yours.
 
